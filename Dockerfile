@@ -1,4 +1,4 @@
-FROM python:3-alpine.3.15
+FROM python:3-alpine3.15
 # Indicates Working Directory
 WORKDIR /app
 COPY . /app
